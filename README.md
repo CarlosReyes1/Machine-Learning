@@ -7,3 +7,5 @@ Group Members:
   Carlos Reyes
   Jason Pieros-Parra
   Adrain Hernandez
+  Joseph Barajar
+  Daniel
