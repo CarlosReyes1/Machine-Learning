@@ -8,4 +8,4 @@ Group Members:
   Jason Pieros-Parra
   Adrian Hernandez
   Joseph Barajar
-  Daniel
+  Daniel Castro
