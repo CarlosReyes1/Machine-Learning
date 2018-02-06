@@ -6,6 +6,6 @@ Group Leader: Carlos Reyes
 Group Members:
   Carlos Reyes
   Jason Pieros-Parra
-  Adrain Hernandez
+  Adrian Hernandez
   Joseph Barajar
   Daniel
